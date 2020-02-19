@@ -4,12 +4,9 @@
 
 >> 此游戏是一款武侠题材的角色扮演手游。此游戏以武侠世界作为背景，拥有小虾米、三少爷、江小白和阿青四大主角供玩家选择，游戏有存档，玩家也可以一个一个角色慢慢的通关，体验每个角色的剧情故事。游戏有着水墨悠然的游戏画风，精彩缜密的剧情故事，多样的玩法内容；让玩家在享受优美画风的同时还能体验到养成的乐趣。游戏中有创新的工具、装备锻造，以及新派装备、武功秘籍收集组合，硬派经典的，辅以丰富多趣的装备升级、角色属性提升、武功熟习和体力、内力、饥饿、智力和精力等五项数值的均衡调节玩法，更有喝酒、野外战斗、资源收集和成就等要素代入其中，带玩家走进一个不一样的武侠世界，体验到更加独特有趣的武侠冒险！欢迎有兴趣的小伙伴前来下载试玩！
 
-![xjcy01.png](https://imgchr.com/i/3VRWBq)
-![xjcx02.png](https://imgchr.com/i/3VR63Q)
-![xjcx03.png](https://imgchr.com/i/3VRccj)
-![xjcx04.png](https://imgchr.com/i/3VRgjs)
-![xjcx05.png](https://imgchr.com/i/3VRy9g)
-![xjcx06.png](./image/6.png)
-
-
-https://imgchr.com/i/3VR4EV
+![3VRWBq.png](https://s2.ax1x.com/2020/02/19/3VRWBq.png)
+![3VR63Q.png](https://s2.ax1x.com/2020/02/19/3VR63Q.png)
+![3VRccj.png](https://s2.ax1x.com/2020/02/19/3VRccj.png)
+![3VRgjs.png](https://s2.ax1x.com/2020/02/19/3VRgjs.png)
+![3VRy9g.png](https://s2.ax1x.com/2020/02/19/3VRy9g.png)
+![3VR4EV.png](https://s2.ax1x.com/2020/02/19/3VR4EV.png)
